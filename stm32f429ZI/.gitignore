@@ -1,0 +1,6 @@
+/Debug/
+.* - .gitignore
+/Middlewares/
+/Drivers/
+*.ld
+*.launch
